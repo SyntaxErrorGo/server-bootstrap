@@ -1,0 +1,6 @@
+NEW_USER="deploy"
+SSH_PORT="22"
+TIMEZONE="UTC"
+NEW_HOSTNAME=""
+SSH_KEY_PATH=""
+BASE_PACKAGES="sudo curl git htop vim nano ufw fail2ban"
